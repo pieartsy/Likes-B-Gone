@@ -1,5 +1,5 @@
 # Likes-B-Gone
-A hacky component for Discourse to get rid of the ability to see likes. Currently I have not figured out how to turn off a user's ability to see others' likes yet still like things themself. F. Working on it.
+A hacky component for Discourse to get rid of the ability to see likes. Taken from [this repository](https://github.com/tshenry/discourse-hide-likes) except it just turns it off for everyone using the theme, along with the "expand" menu. Currently I have not figured out how to turn off a user's ability to see others' likes yet still like things themself. F. Working on it.
 
 1. Go to the the theme area of your admin console. Something like this: `your.site.com/admin/customize/themes`
 
