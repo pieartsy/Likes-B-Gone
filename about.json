@@ -1,8 +1,8 @@
 {
   "name": "Hide All Likes",
   "component": true,
-  "license_url": null,
-  "about_url": null,
+  "license_url": "https://github.com/pieartsy/Likes-B-Gone/blob/main/LICENSE",
+  "about_url": "https://github.com/pieartsy/Likes-B-Gone/blob/main/README.md",
   "authors": null,
   "theme_version": null,
   "minimum_discourse_version": null,
