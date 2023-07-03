@@ -1,7 +1,7 @@
 {
-  "name": "Hide Likes",
+  "name": "Hide All Likes",
   "component": true,
-  "license_url": "https://github.com/tshenry/discourse-hide-likes/blob/master/LICENSE",
+  "license_url": null,
   "about_url": null,
   "authors": null,
   "theme_version": null,
