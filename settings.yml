@@ -4,8 +4,3 @@ hide_from_current_user:
   default: true
   description:
     en: "Hide the like button for all users with this theme installed."
-hide_from_anons:
-  type: bool
-  default: false
-  description:
-    en: "Hide the like button for all anonymous (logged out) users"
