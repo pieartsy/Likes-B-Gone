@@ -1,6 +1,0 @@
----
-hide_from_current_user:
-  type: bool
-  default: true
-  description:
-    en: "Hide the like button for all users with this theme installed."
