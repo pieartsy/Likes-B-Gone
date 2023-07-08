@@ -14,8 +14,8 @@ export default apiInitializer("0.8", (api) => {
         attachButton(name) {
             let button = this._super(name);
             if(name === 'like') {
-                button.children[0].attrs.contents = 'X';
-                button.children[0].contents = 'X';
+                button.children[0].attrs.contents = '';
+                button.children[0].contents = '';
             }
             return button;
         }
